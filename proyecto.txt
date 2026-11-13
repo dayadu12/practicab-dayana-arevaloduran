@@ -1,5 +1,5 @@
 Proyecto:  Gestor de incidencias
-Estado: Pendiente
+Estado: Revision tecnica
 Responsable: Dayana Arevalo Duran
 
 
