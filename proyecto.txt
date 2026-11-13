@@ -1,3 +1,5 @@
 Proyecto:  Gestor de incidencias
 Estado: Pendiente
+Responsable: Dayana Arevalo Duran
+
 
