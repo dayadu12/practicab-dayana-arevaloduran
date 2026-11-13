@@ -1,5 +1,5 @@
 Proyecto:  Gestor de incidencias
-Estado: Revision tecnica
+Estado: Revision tecnica y pruebas funcionales
 Responsable: Dayana Arevalo Duran
 
 
